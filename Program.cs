@@ -9,7 +9,7 @@ class Program
 
     static bool IsPalindrome(string s)
     {
-        // Specify splitPoints to use as split points
+        // Specify splitPoints
         char[] splitPoints =
         {
             ' ', '(', ')', '`', '~', '!', '@', '#', '$', '%', '^', '&', '*', '-', '+', '=', '|', '\\', '{', '}', '[',
